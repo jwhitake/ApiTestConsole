@@ -20,3 +20,14 @@ C:\Users\John\source\repos\C#\ApiTestConsole\ApiGetConsole\obj\Debug\netcoreapp3
 C:\Users\John\source\repos\C#\ApiTestConsole\ApiGetConsole\obj\Debug\netcoreapp3.0\ApiGetConsole.AssemblyInfo.cs
 C:\Users\John\source\repos\C#\ApiTestConsole\ApiGetConsole\obj\Debug\netcoreapp3.0\ApiGetConsole.dll
 C:\Users\John\source\repos\C#\ApiTestConsole\ApiGetConsole\obj\Debug\netcoreapp3.0\ApiGetConsole.pdb
+C:\Users\fatsl\source\repos\c-sharp\ApiTestConsole\ApiGetConsole\bin\Debug\netcoreapp3.0\ApiGetConsole.exe
+C:\Users\fatsl\source\repos\c-sharp\ApiTestConsole\ApiGetConsole\bin\Debug\netcoreapp3.0\ApiGetConsole.deps.json
+C:\Users\fatsl\source\repos\c-sharp\ApiTestConsole\ApiGetConsole\bin\Debug\netcoreapp3.0\ApiGetConsole.runtimeconfig.json
+C:\Users\fatsl\source\repos\c-sharp\ApiTestConsole\ApiGetConsole\bin\Debug\netcoreapp3.0\ApiGetConsole.runtimeconfig.dev.json
+C:\Users\fatsl\source\repos\c-sharp\ApiTestConsole\ApiGetConsole\bin\Debug\netcoreapp3.0\ApiGetConsole.dll
+C:\Users\fatsl\source\repos\c-sharp\ApiTestConsole\ApiGetConsole\bin\Debug\netcoreapp3.0\ApiGetConsole.pdb
+C:\Users\fatsl\source\repos\c-sharp\ApiTestConsole\ApiGetConsole\obj\Debug\netcoreapp3.0\ApiGetConsole.csprojAssemblyReference.cache
+C:\Users\fatsl\source\repos\c-sharp\ApiTestConsole\ApiGetConsole\obj\Debug\netcoreapp3.0\ApiGetConsole.AssemblyInfoInputs.cache
+C:\Users\fatsl\source\repos\c-sharp\ApiTestConsole\ApiGetConsole\obj\Debug\netcoreapp3.0\ApiGetConsole.AssemblyInfo.cs
+C:\Users\fatsl\source\repos\c-sharp\ApiTestConsole\ApiGetConsole\obj\Debug\netcoreapp3.0\ApiGetConsole.dll
+C:\Users\fatsl\source\repos\c-sharp\ApiTestConsole\ApiGetConsole\obj\Debug\netcoreapp3.0\ApiGetConsole.pdb
