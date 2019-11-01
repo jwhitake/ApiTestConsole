@@ -17,6 +17,7 @@ namespace ApiGetConsole
             Console.WriteLine(result);
 
             //post to API
+            Console.WriteLine("\r\n\r\nNow try an HTTP POST\r\n\r\n");
             result = string.Empty;
             url = @"https://jsonplaceholder.typicode.com/posts";
             result = PostToApi(url, useCredentials);
@@ -34,9 +35,10 @@ namespace ApiGetConsole
             HttpWebResponse response = null;
             response = (HttpWebResponse)request.GetResponse();
             string strResult = string.Empty;
-            using (Stream stream = response.GetResponseStream())
+            //using (Stream stream = response.GetResponseStream())
+            using (var sr = new StreamReader(response.GetResponseStream()))
             {
-                StreamReader sr = new StreamReader(stream);
+                //StreamReader sr = new StreamReader(stream);
                 strResult = sr.ReadToEnd();
                 sr.Close();
             }
