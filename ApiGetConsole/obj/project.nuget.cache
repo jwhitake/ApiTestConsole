@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wKyGGgrn7h2DP/l+zhEYGlFrLJetnJ/+Wk5BOQZhuEwoDnKtIKBZg3EDN1Z+mU4lM2gsVWB9rZZ6NuFulOhUCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\John\\source\\repos\\C#\\ApiTestConsole\\ApiGetConsole\\ApiGetConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\John\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\John\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
