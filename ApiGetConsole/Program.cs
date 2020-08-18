@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Newtonsoft.Json;
+using System;
+using System.Collections.Generic;
 using System.IO;
 using System.Net;
 
@@ -42,6 +44,7 @@ namespace ApiGetConsole
                 strResult = sr.ReadToEnd();
                 sr.Close();
             }
+            var posts = JsonConvert.DeserializeObject<List<Post>>(strResult);
             return strResult;
         }
 
